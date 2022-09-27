@@ -1,3 +1,5 @@
+**INCOMPLETE PROJECT**
+
 This project is for FreeCodeCamp's Front End Libraries Quote Machine Project:
 https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer
 
